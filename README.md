@@ -213,6 +213,19 @@ var bar = foo;
 foo.x = foo = {n: 2};
 ```
 
+*Question: console.log 输出什么?*
+```javascript
+a = 2;
+var a;
+console.log(a);//2
+```
+
+*Question: console.log 输出什么?*
+```javascript
+console.log(a);//undefined
+var a=2;
+```
+
 #### Fun Questions:
 
 * What's a cool project that you've recently worked on?
