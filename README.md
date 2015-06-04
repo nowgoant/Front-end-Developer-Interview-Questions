@@ -22,18 +22,18 @@ This file contains a number of front-end interview questions that can be used wh
 
 #### General Questions:
 
-* What did you learn yesterday/this week?
-* What excites or interests you about coding?
-* What is a recent technical challenge you experienced and how did you solve it?
-* What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
+* What did you learn yesterday/this week?//这一周的学习昨天/你
+* What excites or interests you about coding?//是什么激发你对编码的兴趣
+* What is a recent technical challenge you experienced and how did you solve it?//什么是新的技术挑战你的经历和你是如何解决它
+* What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?//什么样的用户界面，安全性，性能，可维护性或技术的考虑做SEO，让你在构建Web应用程序或网站
 * Talk about your preferred development environment.
 * Which version control systems are you familiar with?
-* Can you describe your workflow when you create a web page?
-* If you have 5 different stylesheets, how would you best integrate them into the site?
-* Can you describe the difference between progressive enhancement and graceful degradation?
-* How would you optimize a website's assets/resources?
-* How many resources will a browser download from a given domain at a time?
-  * What are the exceptions?
+* Can you describe your workflow when you create a web page?//你能描述一下你的工作流程，当你创建一个网页
+* If you have 5 different stylesheets, how would you best integrate them into the site?//如果你有5个不同的样式，你能将它们整合到网站
+* Can you describe the difference between progressive enhancement and graceful degradation?//你能描述之间的差异逐步强化和优雅降级
+* How would you optimize a website's assets/resources?//你将如何优化一个网站的资产/资源
+* How many resources will a browser download from a given domain at a time?//有多少资源将浏览器下载从一个给定的域的时候
+  * What are the exceptions?//例外的是什么
 * Name 3 ways to decrease page load (perceived or actual load time).
 * If you jumped on a project and they used tabs and you used spaces, what would you do?
 * Describe how you would create a simple slideshow page.
