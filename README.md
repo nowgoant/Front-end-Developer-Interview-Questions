@@ -34,14 +34,12 @@ This file contains a number of front-end interview questions that can be used wh
 * How would you optimize a website's assets/resources?//你将如何优化一个网站的资产/资源
 * How many resources will a browser download from a given domain at a time?//有多少资源将浏览器下载从一个给定的域的时候
   * What are the exceptions?//例外的是什么
-* Name 3 ways to decrease page load (perceived or actual load time).
-* If you jumped on a project and they used tabs and you used spaces, what would you do?
-* Describe how you would create a simple slideshow page.
-* If you could master one technology this year, what would it be?
-* Explain the importance of standards and standards bodies.
-* What is Flash of Unstyled Content? How do you avoid FOUC?
-* Explain what ARIA and screenreaders are, and how to make a website accessible.
-* Explain some of the pros and cons for CSS animations versus JavaScript animations.
+* Name 3 ways to decrease page load (perceived or actual load time).//名3的方法来减少页面加载（潜在或实际的加载时间）
+* If you jumped on a project and they used tabs and you used spaces, what would you do?//如果你跳上了一个项目，他们使用标签和你使用的空间，你会做什么
+* Describe how you would create a simple slideshow page.//描述你将如何创建一个简单的幻灯片页面。
+* If you could master one technology this year, what would it be?//如果你能掌握这一技术的一年，它会是什么样的
+* Explain the importance of standards and standards bodies.//解释的重要性标准和标准机构
+* Explain some of the pros and cons for CSS animations versus JavaScript animations.//解释的一些利弊与JavaScript CSS动画动画
 
 #### HTML Questions:
 
