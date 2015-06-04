@@ -45,17 +45,18 @@ This file contains a number of front-end interview questions that can be used wh
 
 * What does a `doctype` do?
 * What's the difference between standards mode and quirks mode?
-* What's the difference between HTML and XHTML?
-* Are there any problems with serving pages as `application/xhtml+xml`?
-* How do you serve a page with content in multiple languages?
-* What kind of things must you be wary of when design or developing for multilingual sites?
-* What are `data-` attributes good for?
-* Consider HTML5 as an open web platform. What are the building blocks of HTML5?
+* What's the difference between HTML and XHTML? //HTML和XHTML之间的区别是什么
+* Are there any problems with serving pages as `application/xhtml+xml`? //有什么问题与服务页面` application/xhtml+xml `
+* How do you serve a page with content in multiple languages? //你如何为一个多语言的内容页
+* What kind of things must you be wary of when design or developing for multilingual sites? //什么样的事情你必须警惕当设计或多语种网站的发展
+* What are `data-` attributes good for? //什么是`数据`属性好
+* Consider HTML5 as an open web platform. What are the building blocks of HTML5? //考虑到HTML5作为一个开放的网络平台。HTML5的基石是什么
 * Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
 * Describe the difference between `<script>`, `<script async>` and `<script defer>`.
-* Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?
-* What is progressive rendering?
-* Have you used different HTML templating languages before?
+* Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?//为什么这是一个好主意的位置一般CSS ` <链接> `之间的` <head> </头> `和JS脚本` < > `就在` <体> `？你知道有什么异常？
+* What is progressive rendering? //进步的表现是什么
+* Have you used different HTML templating languages before?／／／你以前用过不同的HTML模板语言
+
 
 #### CSS Questions:
 
