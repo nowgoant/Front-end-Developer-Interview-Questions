@@ -134,6 +134,7 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 * What are the pros and cons of using Promises instead of callbacks?
 * What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?
 * js中的假值有几个（7个，false,0,-0,'',NaN,null,undefined）
+* 有几种原始类型（布尔值、数字、字符串、null,undefined）；[原始类型与封装对象的区别](#objecttype)
 
 #### Testing Questions:
 
@@ -238,6 +239,23 @@ return x !== x;
 }
 ```
 
+*Question: 下面函数的问题?*
+```javascript
+ function point(x,y){
+  if(!x){
+   x = 320;
+  }
+  
+  if(!y){
+   y = 240;
+  }
+  
+  return {x:x,y:y};
+ }
+
+ point(0,0); // x:320,y=240
+```
+#### objecttype:
 *Question: 下面函数的问题?*
 ```javascript
  function point(x,y){
