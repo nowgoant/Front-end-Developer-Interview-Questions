@@ -133,6 +133,7 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 * What is the extent of your experience with Promises and/or their polyfills?
 * What are the pros and cons of using Promises instead of callbacks?
 * What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?
+* js中的假值有几个（7个，false,0,-0,'',NaN,null,undefined）
 
 #### Testing Questions:
 
