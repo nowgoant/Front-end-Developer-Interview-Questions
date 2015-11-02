@@ -225,6 +225,22 @@ console.log(a);//undefined
 var a=2;
 ```
 
+*Question: console.log 输出什么?*
+```javascript
+console.log(2 + true);//3
+```
+*Question: console.log 输出什么?*
+```javascript
+console.log(isNaN(NaN));//true
+console.log(isNaN('foo'));//true
+console.log(isNaN(undefined));//true
+console.log(isNaN({}));//true
+
+function isReallyNaN(x){
+return x !== x;
+}
+```
+
 #### Fun Questions:
 
 * What's a cool project that you've recently worked on?
