@@ -258,19 +258,13 @@ return x !== x;
 #### objecttype:
 *Question: 下面函数的问题?*
 ```javascript
- function point(x,y){
-  if(!x){
-   x = 320;
-  }
-  
-  if(!y){
-   y = 240;
-  }
-  
-  return {x:x,y:y};
- }
-
- point(0,0); // x:320,y=240
+ var s1 = new String('hello');
+ var s2 = new String('hello');
+ s1 === s2 //false
+ 
+ var s1 = 'hello';
+ var s2 = 'hello';
+  s1 === s2 //true
 ```
 
 #### Fun Questions:
