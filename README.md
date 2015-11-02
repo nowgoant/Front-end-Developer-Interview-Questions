@@ -264,7 +264,7 @@ return x !== x;
  
  var s1 = 'hello';
  var s2 = 'hello';
-  s1 === s2 //true
+ s1 === s2 //true
 ```
 
 #### Fun Questions:
