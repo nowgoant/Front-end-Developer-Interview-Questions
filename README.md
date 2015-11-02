@@ -238,6 +238,23 @@ return x !== x;
 }
 ```
 
+*Question: 下面函数的问题?*
+```javascript
+ function point(x,y){
+  if(!x){
+   x = 320;
+  }
+  
+  if(!y){
+   y = 240;
+  }
+  
+  return {x:x,y:y};
+ }
+
+ point(0,0); // x:320,y=240
+```
+
 #### Fun Questions:
 
 * What's a cool project that you've recently worked on?
