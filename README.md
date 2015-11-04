@@ -239,6 +239,29 @@ return x !== x;
 }
 ```
 
+*Question: console.log 输出什么?*
+```javascript
+
+var f = function findX(tree,key){
+    if (!tree){
+        return null;
+    }
+
+    if(tree.key === key){
+        return tree.value;
+    }
+ 
+    console.log(tree.left);
+
+    return findX(tree.left,key) ||
+    findX(tree.right,key);
+}
+
+f({left:'left'},'key');
+//left
+//undefined
+```
+
 *Question: 下面函数的问题?*
 ```javascript
  function point(x,y){
